@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="5SxAJjYzw_UrpzOUZZiZ">
-    <mxGraphModel dx="2254" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="1659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,19 +12,19 @@
         <mxCell id="QQxzqSdhmlvcSjG18DxG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QQxzqSdhmlvcSjG18DxG-2" target="QQxzqSdhmlvcSjG18DxG-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QQxzqSdhmlvcSjG18DxG-2" value="Create new GardenWorld" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#FFFFFF);" parent="1" vertex="1">
+        <mxCell id="QQxzqSdhmlvcSjG18DxG-2" value="Create new GardenWorld" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000000);strokeColor=light-dark(#000000,#FFFFFF);" parent="1" vertex="1">
           <mxGeometry x="90" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQxzqSdhmlvcSjG18DxG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QQxzqSdhmlvcSjG18DxG-4" target="QQxzqSdhmlvcSjG18DxG-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QQxzqSdhmlvcSjG18DxG-4" value="Initilaize variables:&lt;div&gt;set score = 0; misses = 0; targetScore = 10; maxMisses = 5. gameOver = false&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#FFFFFF);rounded=0;" parent="1" vertex="1">
+        <mxCell id="QQxzqSdhmlvcSjG18DxG-4" value="Initilaize variables:&lt;div&gt;set score = 0; misses = 0; targetScore = 10; maxMisses = 5. gameOver = false&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=light-dark(#FFFFFF,#000000);strokeColor=light-dark(#000000,#FFFFFF);rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="120" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QQxzqSdhmlvcSjG18DxG-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QQxzqSdhmlvcSjG18DxG-6" target="QQxzqSdhmlvcSjG18DxG-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QQxzqSdhmlvcSjG18DxG-6" value="Loop:&lt;div&gt;repeat each cycle while gameOver == false&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#FFFFFF);rounded=0;" parent="1" vertex="1">
+        <mxCell id="QQxzqSdhmlvcSjG18DxG-6" value="Loop:&lt;div&gt;repeat each cycle while gameOver == false&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000000);strokeColor=light-dark(#000000,#FFFFFF);rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="380" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QQxzqSdhmlvcSjG18DxG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QQxzqSdhmlvcSjG18DxG-10" target="QQxzqSdhmlvcSjG18DxG-52" edge="1">
@@ -37,13 +37,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QQxzqSdhmlvcSjG18DxG-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="QQxzqSdhmlvcSjG18DxG-16" edge="1">
+        <mxCell id="QQxzqSdhmlvcSjG18DxG-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="QQxzqSdhmlvcSjG18DxG-16" edge="1" source="QQxzqSdhmlvcSjG18DxG-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="550" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="QQxzqSdhmlvcSjG18DxG-10" value="is gameOver == false ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#FFFFFF);rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="490" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QQxzqSdhmlvcSjG18DxG-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QQxzqSdhmlvcSjG18DxG-16" target="QQxzqSdhmlvcSjG18DxG-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -72,7 +69,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QQxzqSdhmlvcSjG18DxG-41" value="Add catcher/player at the bottom; Add the ground/block at the bottom; add first bug at top" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#FFFFFF);rounded=0;" parent="1" vertex="1">
+        <mxCell id="QQxzqSdhmlvcSjG18DxG-41" value="Add catcher/player at the bottom; Add the ground/block at the bottom; add first bug at top" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000000);strokeColor=light-dark(#000000,#FFFFFF);rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="270" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QQxzqSdhmlvcSjG18DxG-42" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -240,6 +237,15 @@
         </mxCell>
         <mxCell id="QQxzqSdhmlvcSjG18DxG-96" value="no movement; used for bug collecting" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-390" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jSOm9YUhqh-jfkbymQf7-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="QQxzqSdhmlvcSjG18DxG-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="550" as="sourcePoint" />
+            <mxPoint x="150" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQxzqSdhmlvcSjG18DxG-10" value="is gameOver == false ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#000000);strokeColor=light-dark(#000000,#FFFFFF);rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="490" width="140" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
